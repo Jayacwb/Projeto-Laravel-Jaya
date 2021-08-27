@@ -1,0 +1,21 @@
+//Bootstrap
+@import "sb-admin/sb-admin-2";
+
+// Datatables BS4
+@import "~datatables.net-bs4/css/dataTables.bootstrap4.css";
+
+// Font-Awesome
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+
+//SweetAlert
+@import "~sweetalert2/src/sweetalert2";
+
+.form-inline {
+    display: block;
+    flex-flow: unset;
+    align-items: unset;
+}
+
